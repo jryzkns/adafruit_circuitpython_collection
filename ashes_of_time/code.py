@@ -26,7 +26,13 @@ frames = [ 'frames/frame 000.bmp',
            'frames/frame 039.bmp',
            'frames/frame 042.bmp',
            'frames/frame 045.bmp',
-           'frames/frame 048.bmp', 'frames/frame 051.bmp', 'frames/frame 054.bmp', 'frames/frame 057.bmp', 'frames/frame 060.bmp', 'frames/frame 063.bmp', 'frames/frame 066.bmp']
+           'frames/frame 048.bmp',
+           'frames/frame 051.bmp',
+           'frames/frame 054.bmp',
+           'frames/frame 057.bmp',
+           'frames/frame 060.bmp',
+           'frames/frame 063.bmp',
+           'frames/frame 066.bmp' ]
 
 disp.brightness = 0.05
 
